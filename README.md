@@ -13,5 +13,5 @@
 *And many more you can check my code if you wish to copy it and please if you like it give me a star amd follow me.*
 
 
-*See the code preview: [click me](https://marvcoolguy.github.io/Cake-Boss/index.html)*
+*See the code preview: [click me](https://marvcoolguy.github.io/Loruki-Website/index.html)*
 
